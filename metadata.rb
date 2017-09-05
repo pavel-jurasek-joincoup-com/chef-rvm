@@ -23,6 +23,7 @@ depends 'sudo'
 depends 'apt'
 depends 'build-essential'
 depends 'chef_gem'
+depends 'gpg'
 depends 'curl'
 
 # if using jruby, java is required on system
