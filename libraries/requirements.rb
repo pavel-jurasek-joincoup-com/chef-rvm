@@ -78,7 +78,7 @@ class ChefRvmCookbook
           'default' => %w[gcc-c++ patch readline readline-devel zlib zlib-devel
                           libyaml-devel libffi-devel openssl-devel
                           make bzip2 autoconf automake libtool bison
-                          libxml2 libxml2-devel libxslt libxslt-devel]
+                          libxml2 libxml2-devel libxslt libxslt-devel sqlite-devel]
         },
 
         'gentoo' => {
